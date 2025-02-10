@@ -15,7 +15,7 @@
 - 🎓 I’m currently a student, continuously expanding my knowledge in software development.  
 - 🚀 Currently learning Git, Java, and GitHub to enhance my development workflow.  
 - 🤝 Open to collaborating on innovative and challenging projects.  
-- 💡 Skilled in SQL, Java, C#, and JavaScript—always eager to tackle new problems.  
+- 💡 Skilled in  JavaScript, React —always eager to tackle new problems.  
 
 ---
 
